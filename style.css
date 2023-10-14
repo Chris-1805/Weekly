@@ -1,13 +1,12 @@
 body {
     font-family: 'Kanit', sans-serif ; /* Schriftart für den gesamten Text im Body */
     background-color: white; /* Hintergrundfarbe des Body */
-    width: 100%;
     font-size:100%;
     text-align: justify;
 }
 
 main{
-    width: 100%;
+   
 }
 .headerandnav {
     background-color: rgb(156, 248, 248); /* Dunkler Hintergrund */
